@@ -1,0 +1,8 @@
+.hello {
+    color: #333333;
+    background: url('../images/logo.png') no-repeat;
+}
+p.text {
+    display: flex;
+    color: red;
+}
